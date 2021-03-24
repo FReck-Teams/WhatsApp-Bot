@@ -1,75 +1,47 @@
 {
 
   "name": "FReck Bot",
-
   "version": "1.0",
-
   "description": "a Bot for WhatsApp",
-
   "main": "index.js",
-
   "derectories": {
-
   "lib": "lib"
-
   },
 
-  
-
   "devDependencies": {},
-
   "scripts": {
-
     "test": "node index"
-
     },
 
   "keywords": [
-
+    
     "W",
     "Whatsapp",
     "FReck",
     "Bot"
     
-
     ],
 
   "author": "group members",
-
   "repository": {
-
   "type": "git",
-
   "url": "git+https://github.com/FReck-Teams/WhatsApp-Bot.git"
-
   },
 
 "bugs": {
-
   "url":"https://github.com/FReck-Teams/WhatsApp-Bot/issues"
-
 },
 
 "homepage": "https://github.com/FReck-Teams/WhatsApp-Bot/readme.md",
-
 "license": "GPL",
-
 "dependencies": {
-
   "@adiwajshing/baileys": "^4.0.0",
-
   "axios": "^0.21.0",
-
   "node-fetch": "^2.6.1",
-
   "needle": "^2.5.2",
-
   "multistream": "^2.1.0",
-
   "async": "^2.0.1",
-
   "brainly-scraper": "^1.0.3",
-
   "got": "^11.8.1",
   "fluent-ffmpeg": "^2.1.2",
   "node-gtts": "^2.0.2",
@@ -87,3 +59,5 @@
   "image-to-base64": "^2.1.1",
   "moment-timezone": "^0.5.32"
   
+  }
+}
