@@ -17,7 +17,6 @@
   </em>
     </p>
   
-  <a align="center">
-  
+ div align="center">
 | [<img src="https://user-images.githubusercontent.com/77515527/111604893-60cb8a80-8808-11eb-8402-4318318c5aa2.jpg" alt="whatsapp logo" width="30">](https://chat.whatsapp.com/G7uBW4cGxnVFVUUN6Cz8P3) |
-  </a>
+  </div>
